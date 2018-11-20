@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <meta charset="utf-8">
+   <title>Rabbits</title>
+   <style>
+   body{
+   background-color:rgb(198, 230, 218);
+   font-style:"cursive", sans-serif;
+   }
+   #thanks{
+   color:green;
+   }
+   p{
+   color:red;
+   }
+   
+   
+   </style>
+   
+   
+   
+   
+   <body>
+   <h1>Welcome To The World Of Rabbits</h1>
+   <h2>Basic Information</h2>
+   
+   <p>Rabbits are small <em>Mammals</em> in the family of <strong>Leporidie.</strong>
+   The same family of <em>Pika and Hare.</em>Their <strong>Kingdom</strong> is <strong>Animalia</strong>.
+   Male rabbits are called bucks; females are called does. An older term for an adult rabbit is coney, while rabbit once referred only to the young animals.
+   Mostly Rabbits are called Bunnies and are kept as <em>pets</em>.
+   <img src="https://www.kasandbox.org/programming-images/creatures/Hopper-Jumping.png" alt="A jumping Beaver"> </p>
+   
+   <p id="thanks">Thank You For Reading This...</p>
+   
+   
+   
+   
+   
+   </body>
+ 
+ 
+ 
+ </head>
+</html>
